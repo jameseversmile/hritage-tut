@@ -1,0 +1,30 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 50px;
+}
+.top-header {
+  display: flex;
+  gap: 50px;
+  li {
+    text-decoration: none;
+    display: flex;
+  }
+}
+.first-list {
+  display: flex;
+}
+.btns {
+  button {
+    padding: 20px 40px;
+  }
+}
+.sign-in {
+  border: none;
+  background-color: #fff;
+}
+.join-kuda {
+  background-color: #40196d;
+  color: #fff;
+  border-radius: 15px;
+}
